@@ -57,6 +57,33 @@ Method: STRIDE is a mature and popular threat modeling technique that is. Each S
 
 •	Finally challenge lack of communication. Without proper communication among the security team, development team, and other stakeholders, the threat model can be incomplete or misdirected.  
 
+#  a) Security hygiene:
+### What basic security practices should everyone follow?
+To protect ourselves from unwanted accidents or hazards everyone should follow some basic security practices for example for daily life in winter time in Finland everyone should ware good winter clothes, a cap, and a boot to protect themselves from extreme cold weather. In this way, it’s very important to follow basic security practices to protect our personal information and digital devices from various threats like hacking, data breaches, and identity theft. Some basic security practices that everyone should practice are listed below: 
+•	Use strong and unique passwords in our email and social media accounts. 
+•	To ensure extra protection of our device, mobile, and different accounts we could use Multi-Factor Authentication (MFA).
+•	Regularly update operating systems, applications, and device to fix security vulnerabilities
+•	Use biometrics lock such as face or fingerprint in our device to prevent device hacks or other security hazard. 
+•	Regularly back up important file to cloud or one drive service. 
+•	Avoid visiting suspicious (scam page) website from devices and enable device auto- fill-up password. 
+•	for sensitive files, emails, and communications operate encryption to protect against unauthorized access.
+•	More conscious to use public Wifi network unless using a Virtual Private Network (VPN).
+•	More conscious to share email password, bank info and ID info through social media or email. 
+### Security practices companies should follow:  
+When it comes to a company perspective hygienic security practices are more important and every company or average Joe should practices this. Some basic security practices that company should practice are listed below: 
+•	Maintain strong and complex password policy and regular bae change of that. 
+•	To reduce risk, unauthorized access and hack company should enable Multi-Factor Authentication (MFA). 
+•	Apply automated patch management systems to ensure that all devices and software are up to date across the organization.
+•	Every company should maintain automated and encrypted backups with regular testing to recover any accidental situation. 
+•	Giving employee regular training regarding security issue, educated them regarding different scam and threat issue. 
+•	Apply various monitoring tools as well security Operations Center (SOC)  to identify and action to potential threats in real-time.
+•	Regularly conduct security audit and penetration testing to identify and possible action to prevent potential vulnerability.
+•	Encrypt sensitive data both rest and in transit among all employees device and communication channel. 
+•	Use antivirus, firewall and intrusion detection system to all devices of the company.
+•	Overall company should have a clear plan and procedure to respond any data breaches, ransomware attacks, and other incidents. 
+
+
+
 
 
 
