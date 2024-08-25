@@ -130,21 +130,22 @@ If the Insurance business model depends on customer trust? Protecting sensitive 
 
 ### System Diagram:
 
-[Customer Web Portal]
+                  [Customer Web Portal]
 
-                    |
+                           |
                     
-            [Claims & Policy Management System]
+             [Claims & Policy Management System]
             
-                    |
+                          |
                     
-          [Core Backend Infrastructure]
+                [Core Backend Infrastructure]
           
-        /         |          |         \
+               /         |          |         \
         
-[Database] [AI Models] [Cloud Backup] [APIs]
+         [Database] [AI Models] [Cloud Backup] [APIs]
 
-      |                 |                 |
+           |                 |                 |
+      
       
 [PII Data]   [Risk Assessment]    [Third-party Integrations]
 
