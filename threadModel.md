@@ -29,7 +29,7 @@ Security control by implementing measure like access controls, encryption, and m
 Conduct regular audits, penetration testing, and updates to the threat model.
 Finally, the threat model is a continuous process it is not a one-time task. It moves on as the system and threat landscape change.
 
-# Threat Modeling Cheat Sheet (OWASP CheatSheets Series Team 2021): 
+## Threat Modeling Cheat Sheet (OWASP CheatSheets Series Team 2021): 
 Threat model cheat sheet at first explain what is thread model and the four key questions that are already summarised above. Then mention below things: 
 ### Advantages of Threat Model: 
 The threat Model has many advantages some of the main advantages are given below. 
@@ -49,6 +49,13 @@ Method: STRIDE is a mature and popular threat modeling technique that is. Each S
 •	Information Disclosure -Confidentiality - Hack to extract data from the database.
 •	Denial of Service – Availability – By performing many failed authentication attempts an attacker locks a legitimate user out of their account.
 •	Elevation of Privileges ¬ - Authorization - (e.g., tampered JWT).
+
+### Challenge of Threat Model: 
+•	Lack of sufficient knowledge and experience in the field of security could hinder to implement threat model effectively. Without proper training, experience and understanding of basic security principles, developer might overlook potential threats.
+•	Another challenge is Threat model could be complex and time-consuming. With a tight schedule, it is difficult to follow this model's systematic approach and in-depth analysis. 
+•	Finally challenge lack of communication. Without proper communication among the security team, development team, and other stakeholders, the threat model can be incomplete or misdirected.  
+
+
 
 
 
