@@ -143,7 +143,8 @@ If the Insurance business model depends on customer trust? Protecting sensitive 
                /         |          |         \
         
          [Database] [AI Models] [Cloud Backup] [APIs]
-              |                 |                |     
+              |                 |                |   
+              
        [PII Data]   [Risk Assessment]    [Third-party Integrations]
 
 
