@@ -33,11 +33,14 @@ Finally, the threat model is a continuous process it is not a one-time task. It 
 Threat model cheat sheet at first explain what is thread model and the four key questions that are already summarised above. Then mention below things: 
 ### Advantages of Threat Model: 
 The threat Model has many advantages some of the main advantages are given below. 
-#### Identify Risk Early-On: From the design phase threat model looks to identify potential security issues. This model allows security to be “build-into” in  a system than “bolted on”. It is a more effective way to identify and fix risk after a system is in production. 
+#### Identify Risk Early-On: 
+From the design phase threat model looks to identify potential security issues. This model allows security to be “build-into” in  a system than “bolted on”. It is a more effective way to identify and fix risk after a system is in production. 
 #### Prioritization of Security Efforts:
 Understanding different kinds of risk matters organizations could ensure where time and budget should be spent most effectively. 
-#### Help to reach the business goal: Threat model integrating security into the business context based on the value of the asset and  overall impact of potential threats on the business. That basically ensures business security more and helps to reach company goals.  
-### Identifying and Ranking threat:  Analyzing  the question this time will break the threat model  into four basic steps: application decomposition, threat identification and ranking, mitigations, and review and validation. 
+#### Help to reach the business goal: 
+Threat model integrating security into the business context based on the value of the asset and  overall impact of potential threats on the business. That basically ensures business security more and helps to reach company goals.  
+### Identifying and Ranking threat:  
+Analyzing  the question this time will break the threat model  into four basic steps: application decomposition, threat identification and ranking, mitigations, and review and validation. 
 Method: STRIDE is a mature and popular threat modeling technique that is. Each STRIDE threat is considered a violation of certain security  attributes. The attributes are given below: 
 
 •	Spoofing – Authenticity – attract to steal authentication to a legitimate user.
