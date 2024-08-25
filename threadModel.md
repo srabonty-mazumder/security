@@ -52,7 +52,9 @@ Method: STRIDE is a mature and popular threat modeling technique that is. Each S
 
 ### Challenge of Threat Model: 
 •	Lack of sufficient knowledge and experience in the field of security could hinder to implement threat model effectively. Without proper training, experience and understanding of basic security principles, developer might overlook potential threats.
+
 •	Another challenge is Threat model could be complex and time-consuming. With a tight schedule, it is difficult to follow this model's systematic approach and in-depth analysis. 
+
 •	Finally challenge lack of communication. Without proper communication among the security team, development team, and other stakeholders, the threat model can be incomplete or misdirected.  
 
 
