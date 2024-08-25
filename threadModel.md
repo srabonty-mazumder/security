@@ -1,4 +1,4 @@
-#Summarized Reading and Video Part: 
+# Summarized Reading and Video Part: 
 ## Threat modeling manifesto (Braiterman et al 2020)
 #### What is the Threat model:
 In short way threat model estimates problems in an expensive way which means identifying the problem before writing a proper code and installing any chip or concrete method of eliminating the threat. The threat model is a set of methods that allow us to think about security at that point so that we can build the security that needs to be. 
@@ -30,16 +30,16 @@ Conduct regular audits, penetration testing, and updates to the threat model.
 Finally, the threat model is a continuous process it is not a one-time task. It moves on as the system and threat landscape change.
 
 ## Threat Modeling Cheat Sheet (OWASP CheatSheets Series Team 2021): 
-Threat model cheat sheet at first explain what is thread model and the four key questions that are already summarised above. Then mention below things: 
+The threat model cheat sheet at first explain what is thread model and the four key questions that are already summarised above. Then mention below things: 
 ### Advantages of Threat Model: 
 The threat Model has many advantages some of the main advantages are given below. 
 #### Identify Risk Early-On: 
-From the design phase threat model looks to identify potential security issues. This model allows security to be “build-into” in  a system than “bolted on”. It is a more effective way to identify and fix risk after a system is in production. 
+From the design phase threat model looks to identify potential security issues. This model allows security to be “build-into” into  a system rather than “bolted on”. It is a more effective way to identify and fix risk after a system is in production. 
 #### Prioritization of Security Efforts:
 Understanding different kinds of risk matters organizations could ensure where time and budget should be spent most effectively. 
 #### Help to reach the business goal: 
 Threat model integrating security into the business context based on the value of the asset and  overall impact of potential threats on the business. That basically ensures business security more and helps to reach company goals.  
-### Identifying and Ranking threat:  
+### Identifying and Ranking Threat:  
 Analyzing  the question this time will break the threat model  into four basic steps: application decomposition, threat identification and ranking, mitigations, and review and validation. 
 Method: STRIDE is a mature and popular threat modeling technique that is. Each STRIDE threat is considered a violation of certain security  attributes. The attributes are given below: 
 
@@ -51,7 +51,7 @@ Method: STRIDE is a mature and popular threat modeling technique that is. Each S
 •	Elevation of Privileges ¬ - Authorization - (e.g., tampered JWT).
 
 ### Challenge of Threat Model: 
-•	Lack of sufficient knowledge and experience in the field of security could hinder to implement threat model effectively. Without proper training, experience and understanding of basic security principles, developer might overlook potential threats.
+•	Lack of sufficient knowledge and experience in the field of security could hinder to implementation threat model effectively. Without proper training, experience, and understanding of basic security principles, developers might overlook potential threats.
 
 •	Another challenge is Threat model could be complex and time-consuming. With a tight schedule, it is difficult to follow this model's systematic approach and in-depth analysis. 
 
@@ -59,14 +59,14 @@ Method: STRIDE is a mature and popular threat modeling technique that is. Each S
 
 #  a) Security hygiene:
 ### What basic security practices should everyone follow?
-To protect ourselves from unwanted accidents or hazards everyone should follow some basic security practices for example for daily life in winter time in Finland everyone should ware good winter clothes, a cap, and a boot to protect themselves from extreme cold weather. In this way, it’s very important to follow basic security practices to protect our personal information and digital devices from various threats like hacking, data breaches, and identity theft. Some basic security practices that everyone should practice are listed below: 
+To protect ourselves from unwanted accidents or hazards everyone should follow some basic security practices for example for daily life in winter time in Finland everyone should wear good winter clothes, a cap, and a boot to protect themselves from extreme cold weather. In this way, it’s very important to follow basic security practices to protect our personal information and digital devices from various threats like hacking, data breaches, and identity theft. Some basic security practices that everyone should practice are listed below: 
 •	Use strong and unique passwords in our email and social media accounts. 
 
 •	To ensure extra protection of our device, mobile, and different accounts we could use Multi-Factor Authentication (MFA).
 
 •	Regularly update operating systems, applications, and devices to fix security vulnerabilities
 
-•	Use biometrics lock such as face or fingerprint in our device to prevent device hacks or another security hazards. 
+•	Use biometrics lock such as face or fingerprint in our device to prevent device hacks or other security hazards. 
 
 •	Regularly back up important files to cloud or one drive service. 
 
@@ -193,7 +193,7 @@ Business Continuity Concerns: If WhatIf insurance faces many times downtime or a
 
 Some strategies that our company should follow to reduce any attract or hack from entry point such as:  
 
-•	Reduce Attack Surface: Implementing very strict access controls, enforce the principle of least privilege, and regularly audit system permissions.
+•	Reduce Attack Surface: Implementing very strict access controls, enforce the principle of least privilege, and regularly auditing system permissions.
 
 •	Strengthen Authentication and Access Control: Require multi-factor authentication (MFA) such as an authentication app  for all customer and employee accounts as well as regularly monitor for unauthorized access attempts 
 
@@ -217,7 +217,7 @@ Ongoing Security Measures:
 
 •	Security Audits and Penetration Testing: Regularly for example quarterly both internal and third-party security assessments to identify and patch vulnerabilities.
 
-•	Continuous Threat Modeling: Review and update threat model whenever new features, integrations, or business processes are introduced.
+•	Continuous Threat Modeling: Review and update the threat model whenever new features, integrations, or business processes are introduced.
 
 •	Monitoring and Incident Response: built-up continuous monitoring with alerting systems that track suspicious activity, failed login attempts, and data access patterns. Ensure that an incident response plan is in place and regularly tested.
 
