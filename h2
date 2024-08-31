@@ -1,5 +1,1 @@
-##  Summary  of scientific paper –
-## Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
-
-Advantages of computer and network world security and risk factor become more complex that only anti-virus or software update are not enough. Recent era, new class of threat known as Advanced Persistent Threats (APTs)  has introduced by targeting most valuable data of military or economy. APT posses significant attribution and adverse threat which could not possible to remove my regular antivirus. Traditional incident response method is failed to response risk that posses by APT intrusions because of two assumption such as response should happen after the point of compromise, and the compromise was the result of a fixable flaw. Several high-profile incidents, including attacks on NASA, reveal APT actors' success in compromising and removing sensitive information. 
 
